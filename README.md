@@ -2,4 +2,4 @@
 
 
 - User need create GOOGLE_API_KEY via weblink https://aistudio.google.com/app/apikey
-- Once API ket genrated user need to create .env file and store the same in variable GOOGLE_API_KEY = <api key>
+- Once API ket genrated user need to create .env file and store the same in variable GOOGLE_API_KEY = <apikey>
